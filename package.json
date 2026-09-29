@@ -1,0 +1,13 @@
+{
+  "name": "junta-pdf",
+  "version": "1.0.0",
+  "description": "Une, reordena e edita PDFs direto no navegador, sem enviar arquivos a nenhum servidor.",
+  "private": true,
+  "scripts": {
+    "build": "node build.js"
+  },
+  "dependencies": {
+    "pdf-lib": "1.17.1",
+    "pdfjs-dist": "3.11.174"
+  }
+}
